@@ -115,10 +115,11 @@ I'm open to **Senior DevOps, DevSecOps, SRE, and Platform Engineering** opportun
 
 📧 [firdoshalam242@hotmail.com](mailto:firdoshalam242@hotmail.com)
 💼 [linkedin.com/in/firdoushalam](https://linkedin.com/in/firdoushalam)
+🐙 [github.com/geekyfarhaan](https://github.com/geekyfarhaan)
 📍 Pune, India
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=firdoushalam&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=geekyfarhaan&style=flat-square&color=blue" alt="Profile views"/>
 </p>
